@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://atklive.io/sitemap.xml
+Sitemap: https://atk-live.com/sitemap.xml
 
 User-agent: GPTBot
 Allow: /
