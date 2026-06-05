@@ -1,0 +1,34 @@
+# ATK - TikTok Live Monitor
+
+A Chrome browser extension for real-time TikTok live stream analytics.
+
+## Description
+ATK provides real-time monitoring of TikTok live streams including chat messages (danmu), virtual gifts, viewer events, likes, and followers. It offers keyword-based alerting with webhook integration to Slack, Discord, Lark, and Telegram. Includes engagement heatmaps, sentiment analysis (PRO), word clouds, and one-click Excel export.
+
+## Key Features
+- Real-time chat/danmu tracking with keyword filtering and search
+- Virtual gift tracking with coin values, sender details, and type/time charts
+- Custom keyword alert rules with desktop notifications and cooldown control
+- Multi-platform webhook push to Slack, Discord, Lark, and Telegram
+- Engagement heatmap with composite index (chat + gifts + likes + joins) across 5-min windows
+- Sentiment analysis for chat messages using on-device ML (PRO feature)
+- Dynamic word cloud generation with top words from live chat
+- Top user leaderboards by gift value, chat frequency, likes, and fan club level
+- One-click XLSX export for all data types (gifts, chat, events, alerts, rankings, heatmap)
+- Session auto-recovery after accidental tab close
+- 21 language support (EN, ZH, JA, KO, DE, FR, ES, PT, RU, AR, VI, TH, TR, IT, ID, MS, FIL, MY, LO, KM, UR)
+
+## Pricing
+- Free ($0/month): Real-time monitoring, 5 alert rules, 30-record export, Top 50 word cloud, 20-min charts, Top 10 blurred leaderboard, desktop notifications.
+- PRO Monthly ($9.9/month): Everything in Free plus unlimited exports, unlimited alert rules, Top 200 word cloud, full 4-hour charts, Top 50 leaderboard, sentiment analysis, clipboard copy.
+- PRO Yearly ($69/year): All PRO features, save 42% vs monthly ($5.75/month equivalent).
+
+## Target Audience
+- TikTok Streamers and Creators: Understand audience engagement, track gift revenue, monitor chat
+- E-Commerce Sellers and Live Shopping Hosts: Monitor product feedback, catch complaints early, track purchase intent
+- Marketing and Analytics Teams: Export data for post-campaign analysis and ROI measurement
+- MCN Agencies and Talent Managers: Track performance across multiple streamers
+
+## Contact
+Email: pandahi.cc@gmail.com
+Website: https://atk-live.com
