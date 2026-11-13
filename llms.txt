@@ -32,3 +32,7 @@ ATK provides real-time monitoring of TikTok live streams including chat messages
 ## Contact
 Email: pandahi.cc@gmail.com
 Website: https://atk-live.com
+
+## Related tools
+- TokGrid — TikTok video analytics and product research Chrome extension: https://tokgrid.app/
+- TikTok Subtitle Export — export TikTok video subtitles as SRT and WebVTT: https://tiktoksubtitleexport.com/

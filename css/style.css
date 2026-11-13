@@ -869,7 +869,7 @@ h1, h2, h3, h4 { line-height: 1.2; }
 }
 .footer-grid {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr 1.5fr;
+  grid-template-columns: 2fr 1fr 1fr 1fr 1.5fr;
   gap: 2rem;
 }
 .footer-logo {
@@ -944,6 +944,7 @@ h1, h2, h3, h4 { line-height: 1.2; }
   .pricing-card.featured:hover { transform: translateY(-2px); }
   .card-body { padding: 1.5rem; }
   .footer-grid { grid-template-columns: 1fr 1fr; }
+  .footer-languages { grid-column: 1 / -1; }
   .carousel-arrow { position: static; transform: none; margin-top: 1rem; }
   .carousel-prev { order: 1; }
   .carousel-viewport { order: 2; }
