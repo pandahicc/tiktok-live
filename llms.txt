@@ -36,3 +36,4 @@ Website: https://atk-live.com
 ## Related tools
 - TokGrid — TikTok video analytics and product research Chrome extension: https://tokgrid.app/
 - TikTok Subtitle Export — export TikTok video subtitles as SRT and WebVTT: https://tiktoksubtitleexport.com/
+- BVT — TikTok batch video downloader: https://bvtdownloader.app/
